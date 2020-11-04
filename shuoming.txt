@@ -1,0 +1,5 @@
+codeFile.txt 一开始的哈夫曼编码
+codeToTxt.txt 利用codeFile.txt还原出来的文章
+compressCode.txt 压缩后的二进制
+newCodeFile 补0后的编码
+wenben.txt 原文件
